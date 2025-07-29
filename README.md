@@ -34,3 +34,22 @@ Adicionar todos os arquivos modificados no staging area - área de preparação.
 
 git add .
 ```
+
+
+Commit representa um conjunto de alterações.
+```
+
+git commit -m "nome do commit"
+```
+
+
+Renomear a branch atual
+```
+git branch -M nome
+```
+
+
+Verificar a branch atual
+```
+git branch
+```
